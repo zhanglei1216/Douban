@@ -116,6 +116,7 @@
 				4854C9C01CCA168F007A74F3 /* Assets.xcassets */,
 				4854C9C21CCA168F007A74F3 /* LaunchScreen.storyboard */,
 				4854C9C51CCA168F007A74F3 /* Info.plist */,
+				48FC16C51CCB0B1A00786554 /* Scenes */,
 				4854C9B41CCA168F007A74F3 /* Supporting Files */,
 			);
 			path = Douban;
@@ -145,6 +146,21 @@
 				4854C9DB1CCA168F007A74F3 /* Info.plist */,
 			);
 			path = DoubanUITests;
+			sourceTree = "<group>";
+		};
+		48FC16C51CCB0B1A00786554 /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				48FC16C61CCB0BA800786554 /* Active */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		48FC16C61CCB0BA800786554 /* Active */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Active;
 			sourceTree = "<group>";
 		};
 		63877D7F072EE86A7F25ADD2 /* Frameworks */ = {
